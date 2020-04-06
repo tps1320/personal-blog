@@ -1,0 +1,6 @@
+.social { 
+  display: flex;
+}
+.social > div {
+  margin: 10px;
+}
