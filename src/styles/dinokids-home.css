@@ -1,6 +1,6 @@
-@import "/src/styles/dinosaurs.css";
-@import "/src/styles/dinosaur-gallery.css";
-@import "/src/styles/about.css"; 
+@import "dinosaurs.css";
+@import "dinosaur-gallery.css";
+@import "about.css"; 
 /* Mobile First Layout */
 .container-home {
     display: grid;
@@ -21,7 +21,7 @@
     grid-area: hd;
     display: flex;
     justify-content: center;
-    background-image: url("/src/images/jp.jpg");
+    background-image: url("../images/jp.jpg");
 }
 
 .header > div {

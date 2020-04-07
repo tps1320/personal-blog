@@ -30,7 +30,6 @@ img {
 @media(min-width:900px) {
   .gallery-container {
     display: grid;
-    /*grid-template-columns: 300px 300px 300px;*/
     grid-template-rows: 100px auto;
     grid-template-areas: 
     "hd hd hd hd hd hd hd hd"
